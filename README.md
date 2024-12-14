@@ -12,6 +12,9 @@ I developed a Java Console application that applies BFS - DFS path algorithms to
 --> example run with GoT characters
 ![image](https://github.com/user-attachments/assets/17c187d0-b253-4c91-9a28-bd02ec433cc3)
 
+--> All network can be visualized as:
+![image](https://github.com/user-attachments/assets/d342a901-1739-4b15-8c49-9a06891dd333)
+
 --> Related screenshots to change the input file.
 ![image](https://github.com/user-attachments/assets/9f78486a-0fcb-4da1-a851-f12a05674360)
 
