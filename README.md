@@ -7,3 +7,4 @@ I developed a Java Console application that applies BFS - DFS path algorithms to
 --> Also, the project has ability to run both files but you need to uncomment the necessarry lines in 'GraphMatrix.java' file. 
 
 
+![image](https://github.com/user-attachments/assets/74b2ada2-9abb-4545-a498-75642db7bf33)
