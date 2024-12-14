@@ -6,5 +6,13 @@ I developed a Java Console application that applies BFS - DFS path algorithms to
 --> You can see some screenshots of the project below.
 --> Also, the project has ability to run both files but you need to uncomment the necessarry lines in 'GraphMatrix.java' file. 
 
-
+--> one part of the 1000x1000 matrix 
 ![image](https://github.com/user-attachments/assets/74b2ada2-9abb-4545-a498-75642db7bf33)
+
+--> example run with GoT characters
+![image](https://github.com/user-attachments/assets/17c187d0-b253-4c91-9a28-bd02ec433cc3)
+
+--> Related screenshots to change the input file.
+![image](https://github.com/user-attachments/assets/9f78486a-0fcb-4da1-a851-f12a05674360)
+
+![image](https://github.com/user-attachments/assets/83143076-8f58-46b9-afa4-7a767058a882)
